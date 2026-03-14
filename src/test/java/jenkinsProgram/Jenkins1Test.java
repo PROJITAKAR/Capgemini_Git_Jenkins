@@ -16,6 +16,7 @@ public class Jenkins1Test {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(15));
 		driver.get("https://leetcode.com/");
 		System.out.println("Title: "+ driver.getTitle());
+		System.out.println("Test jenkins build");
 		driver.quit();
 	}
 }
