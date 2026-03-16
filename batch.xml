@@ -6,6 +6,7 @@
       <class name="jenkinsProgram.Jenkins3Test"/>
       <class name="jenkinsProgram.Jenkins2Test"/>
       <class name="jenkinsProgram.Jenkins1Test"/>
+      <class name="jenkinsProgram.Jenkins4Test"/>
     </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
